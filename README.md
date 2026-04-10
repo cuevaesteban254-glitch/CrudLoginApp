@@ -47,7 +47,7 @@ Si un usuario intenta ingresar directamente a una URL protegida, será redirigid
 
 Clonar repositorio:
 
-git clone https://github.com/cuevaesteban254-glitch/CrudLoginApp/edit/master/README.md
+git clone https://github.com/cuevaesteban254-glitch/CrudLoginApp
 
 ---
 
