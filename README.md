@@ -41,22 +41,13 @@ Las rutas están protegidas con [Authorize], lo que evita que usuarios no autent
 
 Si un usuario intenta ingresar directamente a una URL protegida, será redirigido al login.
 
----
 
-## 🖥️ Demo
-
-Aquí puedes agregar imágenes del sistema:
-
-![Login](ruta_imagen)
-![CRUD](ruta_imagen)
-
----
 
 ## 📁 Acceso al proyecto
 
 Clonar repositorio:
 
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/cuevaesteban254-glitch/CrudLoginApp/edit/master/README.md
 
 ---
 
